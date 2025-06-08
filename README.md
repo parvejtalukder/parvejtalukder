@@ -17,13 +17,9 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on ****
-- 🌱 I’m currently learning ****
-- 👯 I’m looking to collaborate on ****
-- 🤔 I’m looking for help with ****
-- 💬 Ask me about ****
-- 📫 How to reach me: ****
-- ⚡ Fun fact: ****
+- 🔭 I’m currently working on MkT&CW
+- 🌱 I’m currently learning JS and C
+- 💬 Ask me about mail@parvejhusentalukder.com
 
 <br/>
 
@@ -43,7 +39,4 @@
   </a>
 </p>
 
-<br/>
-<br/>
 
-[linkedin]: [facebook]: [twitter]: [portfolio]: ```
