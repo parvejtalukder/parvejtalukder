@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/parvejtalukder">
-    <img src="https://github-readme-stats.vercel.app/api?username=parvejtalukder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvejtalukder&hide_border=true&theme=tokyonight" width="48%">
   </a>
 </p>
