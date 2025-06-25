@@ -5,7 +5,7 @@
 </p>
 
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parvejtalukder&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parvejtalukder&theme=dark" alt="GitHub Streak" align="center"/></a>
 <br/>
 
 ### 👨‍💻 About Me:
