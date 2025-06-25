@@ -1,7 +1,7 @@
 ## Hi there, I am Parvej Husen Talukder! :wave:
 
 <p align="center">
-  <img alt="Coding" width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RrcG5jZnhkc3lkaTJxN2dpaXV0ZXo3ZHNmYmJ1YnEyYXh6OHd1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img alt="Coding" width="400px" src="https://scontent.fdac145-1.fna.fbcdn.net/v/t39.30808-6/500070994_1483239483039866_8476861098072906408_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHOG66jIYOwF7ElAhzzsACmYqrkpUpkY-JiquSlSmRj4mZp8wBXscgW0p51z-ROVQm9sCRlIh9K1rHOyql9CCtN&_nc_ohc=-F3L0znGJdgQ7kNvwHFP2il&_nc_oc=Adn_b3j7hHTPF1yji35pY8Y_Kih6uSPoQ0XykrwLWxe1-b7-7COK46Zo7K5th--sRC4&_nc_zt=23&_nc_ht=scontent.fdac145-1.fna&_nc_gid=avYn5TCy-CTqu8QKeKiQOw&oh=00_AfN1guDup1aFvVKpFr1UxMqrgKpL1oF3f0yJ9BRCCPDh9w&oe=6861EF99" />
 </p>
 
 <br/>
