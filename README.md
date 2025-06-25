@@ -5,17 +5,7 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/parvejtalukder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvejtalukder&hide_border=true&theme=tokyonight" width="48%">
-  </a>
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=parvejtalukder&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=parvejtalukder&theme=dark)](https://git.io/streak-stats)
 <br/>
 
 ### 👨‍💻 About Me:
