@@ -13,6 +13,10 @@
 </p>
 
 <br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=parvejtalukder&theme=tokyonight" />
+</p>
+<br/>
 
 ### 👨‍💻 About Me:
 
