@@ -21,6 +21,9 @@
 ---
 
 ### 🏆 GitHub Stats & Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parvejtalukder&theme=tokyonight&no-frame=true&column=8&margin-w=15" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parvejtalukder&show_icons=true&count_private=true&theme=dracula" height="150" />
@@ -29,10 +32,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parvejtalukder&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parvejtalukder&theme=tokyonight&no-frame=true&column=8&margin-w=15" />
 </p>
 
 ---
