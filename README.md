@@ -15,7 +15,7 @@
 ### 🪄 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,react,html,css,js,git,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,vscode,java,react, tailwind" />
 </p>
 
 ---
