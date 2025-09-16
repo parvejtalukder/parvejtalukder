@@ -1,9 +1,5 @@
 ## 👋 Hi there, I am Parvej Husen Talukder!
 
-<p align="center">
-  <img alt="Parvej Husen Talukder" width="4000px" src="https://media.licdn.com/dms/image/v2/D5616AQHjS7AMFYMxdQ/profile-displaybackgroundimage-shrink_350_1400/B56ZbnHvZPGsAY-/0/1747634289288?e=1758153600&v=beta&t=Xz-gkkBUcUSHNMPUNdN6VszLE9H90eU_LsuUvpqkGDo" />
-</p>
-
 ### 👨‍💻 About Me:
 
 - 🔭 Currently working on **MkT&C**
