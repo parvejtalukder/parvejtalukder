@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Parvej Husen Talukder!
 <p align="center">
-  <img src="./IMG 9043.webp" alt="Parvej Husen Talukder">
+  <img src="./IMG9043.webp" alt="Parvej Husen Talukder">
 </p>
 
 ### 👨‍💻 About Me:
