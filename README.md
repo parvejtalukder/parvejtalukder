@@ -8,6 +8,7 @@
 
 - 🔭 Currently working on **MkT&C**
 - 🌱 Practising **C**, **C++**, **Java**, and **JavaScript**
+- 🏆 Intra-University Programming Contest Champion, SIU
 - 🧑‍🎓 **CSE undergraduate** passionate about algorithms, problem solving & open knowledge  
 - 💬 Ask me anything at: [mail@parvejhusentalukder.com](mailto:mail@parvejhusentalukder.com)
 
