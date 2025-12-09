@@ -4,8 +4,6 @@
   <img src="./IMG9043.webp" alt="Parvej Husen Talukder">
 </p>
 
-# 👋 Hi there, Nice to See You!
-## I’m **Parvej Husen Talukder**
 **Programmer • Competitive Coder • Poet • Internet Entrepreneur**
 
 ---
