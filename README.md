@@ -8,7 +8,7 @@
 
 ---
 
-# 🧑‍💻 Basic Information
+# Basic Information
 
 **Name:** Parvej Husen Talukder  
 **Username:** `parvejtalukder`  
@@ -21,7 +21,7 @@
 
 ---
 
-# 🚀 Current Overview
+# Current Overview
 
 - Programmer, Competitive Coder & Web Developer  
 - Practising **C, C++, Java, JavaScript**  
@@ -34,7 +34,7 @@
 
 ---
 
-# 🌐 Social Links
+# Social Links
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/parvej_husen)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/parvej_poet)  
@@ -44,7 +44,7 @@
 
 ---
 
-# 🪄 Languages & Tools
+# Languages & Tools
 ![Competitive Programmer](https://img.shields.io/badge/Competitive%20Programmer-blue?style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developer-black?style=for-the-badge)
 ![CSE Undergraduate](https://img.shields.io/badge/CSE%20Undergraduate-6A5ACD?style=for-the-badge)
@@ -66,21 +66,10 @@
 
 ---
 
-# 🏆 GitHub Stats & Activity
+# GitHub Stats & Activity
 
 <div align="center">
-
-### 🔥 GitHub Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parvejtalukder&theme=midnight-purple&hide_border=false" width="70%" />
-
-<br/>
-
-### 📊 General Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=parvejtalukder&theme=dark&show_icons=true" />
-
-<br/>
-
-### 🧩 Profile Summary  
+ 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvejtalukder&theme=dracula" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvejtalukder&theme=dracula" />
@@ -89,12 +78,12 @@
 
 <br/>
 
-### 🌱 Contribution Graph  
+### Contribution Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvejtalukder&theme=dracula" />
 
 <br/>
 
-### 👀 Profile Views  
+### Profile Views  
 [![](https://visitcount.itsvg.in/api?id=parvejtalukder&icon=5&color=11)](https://visitcount.itsvg.in)
 
 </div>
