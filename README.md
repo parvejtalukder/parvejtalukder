@@ -22,14 +22,15 @@
 
 # Current Overview
 
-- Programmer, Competitive Coder & Web Developer  
-- Practising **C, C++, Java, JavaScript**  
-- Working on **MkT&C**  
-- 🏆 *Intra-University Programming Contest Champion (SIU)*  
-- CSE undergraduate passionate about **problem-solving, algorithms & open knowledge**  
-- ✍️ Poet, children's writer & freelance journalist  
-- 🏅 Recipient of **JSS Award 2022** for children's literature  
-- 💬 Ask me anything: **mail@parvejhusentalukder.com**
+- 🚀 **Jr. Full Stack MERN Developer** (JavaScript/React/Node.js/MongoDB)
+- Building scalable web applications with modern tech stack
+- 💼 Experience: E-commerce platforms, CMS, certificate management, parcel tracking systems
+- 🏆 *Intra-University Programming Contest Champion (SIU)*
+- CSE undergraduate passionate about **clean code, competitive programming & best practices**
+- 🌍 Deployed projects to production; experienced with Firebase, JWT authentication, REST APIs
+- ✍️ Additionally: Poet, and children's writer 
+- 🏅 Recipient of **JSS Award 2022** for children's literature
+- 💬 Open to remote opportunities. Contact: **mail@parvejhusentalukder.com**
 
 ---
 
