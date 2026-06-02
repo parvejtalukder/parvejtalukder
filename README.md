@@ -34,6 +34,30 @@
 
 ---
 
+# 🎯 Key MERN Projects
+
+- **[Artify](https://github.com/parvejtalukder/PHT_Artify_Client)** - Full-stack artwork marketplace with user authentication, image uploads, and payment integration
+- **[Certify](https://github.com/parvejtalukder/Certify)** - Certificate management platform with digital verification
+- **[VextraWeb](https://github.com/parvejtalukder/vextraweb.com)** - Digital agency website with responsive design
+- **[FirstGo Client](https://github.com/parvejtalukder/FirstGo_Client)** - Parcel management system frontend
+- **[Open Journal](https://github.com/parvejtalukder/Open-Journal)** - Full-stack CMS with Flask backend
+
+---
+
+# 💡 Core Competencies
+
+- **Frontend:** React, React Router, Responsive Design, Tailwind CSS, HTML/CSS
+- **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT)
+- **Database:** MongoDB, Firebase
+- **Full Stack:** End-to-end development from UI to API to database
+- **Web Standards:** RESTful API design, authentication & authorization, responsive web design
+- **Version Control:** Git workflow, collaborative development
+- **Problem Solving:** Competitive programming background with strong algorithmic thinking
+
+---
+
+---
+
 # Social Links
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/parvej_husen)  
