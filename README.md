@@ -45,7 +45,6 @@
 ---
 
 # Languages & Tools
-# Languages & Tools
 
 ## Full Stack MERN Stack
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
