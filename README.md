@@ -14,10 +14,9 @@
 **Username:** `parvejtalukder`  
 **Pronouns:** he/him  
 **Country:** Bangladesh  
-**Website:** https://parvejhusentalukder.com  
+**Website:** https://dev.parvejhusentalukder.com  
 **Email:** mail@parvejhusentalukder.com  
 **ORCID:** https://orcid.org/0000-0001-5313-4772  
-**Organizations:** @Bhikitia @Khujoweb  
 
 ---
 
@@ -28,7 +27,7 @@
 - Working on **MkT&C**  
 - 🏆 *Intra-University Programming Contest Champion (SIU)*  
 - CSE undergraduate passionate about **problem-solving, algorithms & open knowledge**  
-- ✍️ Poet, children’s writer & freelance journalist  
+- ✍️ Poet, children's writer & freelance journalist  
 - 🏅 Recipient of **JSS Award 2022** for children's literature  
 - 💬 Ask me anything: **mail@parvejhusentalukder.com**
 
