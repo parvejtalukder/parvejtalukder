@@ -72,26 +72,10 @@
   - 💾 MongoDB persistence layer
   - 🎨 Dark/Light mode toggle
 - **Status:** ✅ Production Ready
-
+  
 ---
 
-### 3. **Wikitia** - Collaborative Knowledge Platform 📚
-**Tech Stack:** React + Vite | Node.js + Express | Firebase | Stripe Payments
-- **Live Demo:** https://page.wikitia.org
-- **GitHub:** [Frontend](https://github.com/parvejtalukder/page.wikitia.org) | [Backend](https://github.com/parvejtalukder/server.wikitia.org) (Private)
-- **Features:**
-  - 📝 Page creation, editing, deletion with role-based access
-  - 💳 Stripe payment integration for premium content
-  - 👥 Multi-level user permissions
-  - 🔍 Search & categorization
-  - 📧 Email notifications (Resend API)
-  - 🔐 JWT-based authentication
-  - 📱 Mobile-responsive interface
-- **Status:** ✅ Active & Deployed
-
----
-
-### 4. **VextraWeb** - Digital Agency Portfolio 🌐
+### 3. **VextraWeb** - Digital Agency Portfolio 🌐
 **Tech Stack:** React + Vite | Tailwind CSS | React Router | GSAP
 - **Live Demo:** https://vextraweb.com
 - **GitHub:** https://github.com/parvejtalukder/vextraweb.com
@@ -106,7 +90,7 @@
 
 ---
 
-### 5. **Certify** - Digital Certificate Management System 📜
+### 4. **Certify** - Digital Certificate Management System 📜
 **Tech Stack:** Java + Spring Boot | MongoDB | Thymeleaf | Tailwind CSS
 - **GitHub:** https://github.com/parvejtalukder/Certify
 - **Features:**
@@ -121,7 +105,7 @@
 
 ---
 
-### 6. **Open Journal** - Full Stack CMS 📰
+### 5. **Open Journal** - Full Stack CMS 📰
 **Tech Stack:** Flask | Jinja2 | SQLite | Tailwind CSS
 - **Live Demo:** https://openjournal.parvejhusentalukder.com
 - **GitHub:** https://github.com/parvejtalukder/Open-Journal
@@ -140,12 +124,9 @@
 
 ## Other Notable Projects
 
-### Learning & Practice Projects
+### Learning & Practice Frontend Projects
 - **[Hero-IO](https://github.com/parvejtalukder/Hero-IO)** - React app discovery platform with React Query, Recharts, localStorage
 - **[GreenNest](https://github.com/parvejtalukder/GreenNest)** - Plant care e-commerce SPA with Firebase Auth, Swiper
-- **[StudyCircle Client](https://github.com/parvejtalukder/StudyCircle_Client)** - Educational collaboration platform
-- **[BookVibe](https://github.com/parvejtalukder/BookVibe)** - Book management application
-- **[Caa-Ghor](https://github.com/parvejtalukder/Caa-Ghor-)** - Real estate platform
 
 ### Programming Practice
 - **[C-Solutions](https://github.com/parvejtalukder/C-Solutions)** - Competitive programming solutions
@@ -181,8 +162,6 @@
 ### Database & Data Management
 - **NoSQL:** MongoDB, Firebase Firestore
 - **SQL:** SQLite, MySQL basics
-- **ORM/ODM:** Mongoose, Spring Data
-- **Data Modeling:** Schema design, normalization, pagination
 
 ### Deployment & DevOps
 - **Hosting Platforms:** Vercel, Netlify, Heroku, cPanel
@@ -239,7 +218,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-626699?style=for-the-badge&logo=stripe&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ## Deployment & Tools
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
@@ -283,12 +261,12 @@
 
 # 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/parvej_husen)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/parvejhusentalukder)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/parvej_poet)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/parvej_husen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/parvej-husen-talukder-860a411b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/parvejhusentalukder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@parvejhusentalukder.com)
-[![Website](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://dev.parvejhusentalukder.com)
+[![Website](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://parvejhusentalukder.com)
 
 ---
 
@@ -316,8 +294,7 @@ Along with full-stack development, I'm passionate about **poetry, children's lit
 🌍 **Location:** Bangladesh | 🕐 Available in BST (UTC+6)
 
 **📧 Email:** mail@parvejhusentalukder.com  
-**🔗 Portfolio:** https://dev.parvejhusentalukder.com  
-**🌐 LinkedIn:** https://www.linkedin.com/in/parvej-husen-talukder-860a411b7
+**🌐 LinkedIn:** https://www.linkedin.com/in/parvejhusentalukder
 
 ---
 
